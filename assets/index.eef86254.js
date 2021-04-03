@@ -60,7 +60,6 @@ new n().load('./fonts/FantasqueSansMono.json', e => {
     bevelOffset: 0,
     bevelSegments: 4,
   })
-  t.center(), f.load('../matcaps/lightblue.png')
   const n = new a(),
     c = new i(t, n)
   M.add(c)
