@@ -48,7 +48,7 @@ import {
 const u = document.querySelector('canvas.canvas'),
   M = new e(),
   f = new t()
-new n().load('../fonts/FantasqueSansMono.json', e => {
+new n().load('./fonts/FantasqueSansMono.json', e => {
   const t = new o('@belfubu', {
     font: e,
     size: 0.5,
